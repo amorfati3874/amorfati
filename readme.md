@@ -13,3 +13,5 @@ Here are the cses I will take this semester.
 You can get more details from imperial website [Statistics modules](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/)
 
 Hello
+
+for more information visit [imperial statistics](https://www.imperial.ac.uk/admin-services/ict/self-service/digital-education-services/digital-education-platforms/canvas/)
