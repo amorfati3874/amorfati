@@ -2,7 +2,7 @@
 
 I am Minjoon from Korea studying MSc Statistics at Imperial. I live in Lee Abbey nearby the campus. I enjoy playing table tennis and I also like cooking.
 
-Here are the cses I will take this semester.
+Here are the courses I will take this semester.
 
 - Probability Theory
     - pre-requisite: real analysis
